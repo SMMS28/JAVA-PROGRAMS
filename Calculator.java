@@ -49,7 +49,7 @@ if (start) {
 if (current.equals("-")) {
 display.setText(current);
 start = false;
-} else {
+} else { 
 operator = current;
 }} else {
 try {
