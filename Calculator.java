@@ -20,7 +20,7 @@ buttons = new JButton[17];
 for (int i = 0; i < 17; i++) {
 buttons[i] = new JButton(labels[i]);
 panel.add(buttons[i]);
-buttons[i].addActionListener(this);
+buttons[i].addActionListener(this);  
 }
 add(display, BorderLayout.NORTH);
 add(panel, BorderLayout.CENTER);
