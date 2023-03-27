@@ -15,7 +15,7 @@ class Animal
 }  
     }  
     class Cat extends Animal{  
-    void eat(){
+    void eat(){ 
         System.out.println("eating rat...");
     }  
     }  
