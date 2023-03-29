@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class matrix {
 public static void main(String args[]) {
-        int i, j, k, rowF, rowS, colF, colS;
+        int i, j, k, rowF, rowS, colF, colS;  
         int first[][] = new int[10][10];
         int second[][] = new int[10][10];
         int product[][] = new int[10][10];
