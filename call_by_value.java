@@ -5,7 +5,7 @@ public class call_by_value
        int b = 45;
        System.out.println("Before swapping, a = " + a + " and b = " + b);
        swapFunction(a, b);
-       System.out.println("**Now, Before and After  swapping values will be same here**:");
+       System.out.println("**Now, Before and After swapping values will be same here**:");
        System.out.println("After swapping, a = " + a + " and b is " + b);
     }
     public static void swapFunction(int a, int b) {
