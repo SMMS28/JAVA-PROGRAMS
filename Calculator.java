@@ -8,6 +8,7 @@ private JTextField display;
 private JButton buttons[];
 private String labels[] = { "7", "8", "9", "+", "4", "5", "6", "-", "1", "2", "3", "*", "0", ".", "=", "/", "AC" };
 private double result = 0.0;
+
 private boolean start = true;
 private String operator = "=";
 
