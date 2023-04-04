@@ -11,7 +11,8 @@ private double result = 0.0;
 private boolean start = true;
 private String operator = "=";
 
-public Calculator() {
+public Calculator() 
+{
 display = new JTextField(20);
 display.setEditable(false);
 JPanel panel = new JPanel();
