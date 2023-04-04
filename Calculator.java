@@ -11,6 +11,7 @@ private double result = 0.0;
 private boolean start = true;
 private String operator = "=";
 
+
 public Calculator() 
 {
 display = new JTextField(20);
