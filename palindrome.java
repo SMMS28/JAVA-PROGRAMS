@@ -10,6 +10,7 @@ import java.util.Scanner;
         }
         else
         {
+         
             System.out.println(input+" is not a palindrome string");
             sc.close();
         }
