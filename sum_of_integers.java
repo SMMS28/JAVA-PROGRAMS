@@ -9,7 +9,6 @@ class sum_of_integers{
         String s = sc.nextLine();
         StringTokenizer st = new StringTokenizer(s, " ");
         while (st.hasMoreTokens()) {
-         
             String temp = st.nextToken();
             n = Integer.parseInt(temp);
             System.out.println(n);
