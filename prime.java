@@ -5,6 +5,7 @@ class prime {
 		System.out.println(
 			"All the Prime numbers within 1 and " + N + " are:");
 		for (x = 1; x <= N; x++) {
+			
 			if (x == 1 || x == 0)
 				continue;
 			flg = 1;
