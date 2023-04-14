@@ -11,7 +11,8 @@ class prime {
 			flg = 1;
 
 			for (y = 2; y <= x / 2; ++y) {
-				if (x % y == 0) {
+				if (x % y == 0) 
+				{
 					flg = 0;
 					break;
 				}
