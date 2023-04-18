@@ -27,14 +27,13 @@ public static void main(String args[]) {
             for (j = 0; j < colS; j++) {
                 second[i][j] = scanner.nextInt();
             }
-        }
+}
         for (i = 0; i < rowF; i++) {
             for (j = 0; j < colF; j++) {
                 for (k = 0; k < colS; k++) {
                     product[i][j] += first[i][k] * second[k][j];
                 }
-            }
-        }
+            }}
         System.out.println("Product Matrix");
         for (i = 0; i < rowF; i++)
          {
