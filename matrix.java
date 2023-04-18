@@ -6,7 +6,6 @@ public static void main(String args[]) {
         int first[][] = new int[10][10];
         int second[][] = new int[10][10];
         int product[][] = new int[10][10];
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter Rows and Cols of First Matrix");
