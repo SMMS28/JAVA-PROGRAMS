@@ -5,8 +5,7 @@ public class method_overload
     return(x+y);
   }
   public int sum(int x,int y,int z)
-    
-  {
+    {
     return(x+y+z);
   }
   public double sum(double x,double y)
