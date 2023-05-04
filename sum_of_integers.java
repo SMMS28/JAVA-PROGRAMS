@@ -14,7 +14,6 @@ class sum_of_integers{
             System.out.println(n);
             sum = sum + n;
         }
-     
         System.out.println("sum of the integers is: " + sum);
         sc.close();
     }
