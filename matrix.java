@@ -38,7 +38,6 @@ public static void main(String args[]) {
              {
                 System.out.print(product[i][j]);
                 System.out.print(" ");
-
             }
             System.out.print("\n");
         }
