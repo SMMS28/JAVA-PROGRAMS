@@ -10,7 +10,6 @@ public class FahrenheitToCelsiusTable {
 			System.out.println(i+" "+(int)((5.0/9)*(i-32)));
 		}
 	}
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
