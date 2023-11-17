@@ -16,7 +16,6 @@ public class FahrenheitToCelsiusTable {
 		int start = sc.nextInt();
 		int end =  sc.nextInt();
 		int step = sc.nextInt();
-				
 		printFahrenheitTable(start,end,step);
 
 	}
