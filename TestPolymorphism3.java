@@ -20,7 +20,7 @@ class Animal
     void eat(){
         System.out.println("eating meat...");
     }  
-    }  
+    } 
     class TestPolymorphism3{  
     public static void main(String[] args)
     {  
