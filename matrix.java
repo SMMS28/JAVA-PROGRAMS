@@ -40,7 +40,6 @@ first[i][j] = scanner.nextInt();
             }
             System.out.print("\n");
         }
-    
                 System.out.println("transpose Matrix");
                 for (i = 0; i < rowF; i++) {
                 for (j = 0; j < colS; j++) {
