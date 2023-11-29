@@ -18,7 +18,6 @@ first[i][j] = scanner.nextInt();
         System.out.println("Enter Rows and Cols of Second Matrix");
         rowS = scanner.nextInt();
         colS = scanner.nextInt();
-
         System.out.println("Enter Elements of Second Matrix");
         for (i = 0; i < rowS; i++) {
             for (j = 0; j < colS; j++) {
