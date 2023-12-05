@@ -16,7 +16,6 @@ public class SumofEvenNumberstillN {
 		 int n;
 		 Scanner s = new Scanner(System.in);
 		 n=s.nextInt();
-		 
 		 int i =1;
 		 int sum=0;
 		 
