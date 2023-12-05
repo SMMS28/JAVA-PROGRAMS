@@ -12,7 +12,6 @@ public class SumofEvenNumberstillN {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
 		 int n;
 		 Scanner s = new Scanner(System.in);
 		 n=s.nextInt();
