@@ -12,8 +12,7 @@ public class FunctionOverloading {
 	}
 	public static int sum(int a)
 	{
-		
-return a+1;
+		return a+1;
 	}
 	public static double sum(double a, double b)
 	{
