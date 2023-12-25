@@ -9,6 +9,7 @@ public static void main(String args[]) {
         System.out.println("Enter Rows and Cols of First Matrix");
         rowF = scanner.nextInt();
         colF = scanner.nextInt();
+
         System.out.println("Enter Elements of First Matrix");
         for (i = 0; i < rowF; i++) {
             for (j = 0; j < colF; j++) {
