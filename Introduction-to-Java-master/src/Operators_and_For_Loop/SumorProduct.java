@@ -1,5 +1,4 @@
 package Operators_and_For_Loop;
-
 import java.util.Scanner;
 public class SumorProduct {
 	public static void main(String[] args) {
