@@ -3,7 +3,6 @@ package Operators_and_For_Loop;
 import java.util.Scanner;
 
 public class SumorProduct {
-
 	public static void main(String[] args) {
 		int n,c,i,sum=0,mul=1;
         Scanner sc=new Scanner(System.in);
