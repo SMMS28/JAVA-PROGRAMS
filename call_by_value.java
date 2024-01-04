@@ -3,7 +3,6 @@ public class call_by_value
     public static void main(String args[]){
        int a = 30; 
        int b = 45;
-        
        System.out.println("Before swapping, a = " + a + " and b = " + b);
        swapFunction(a, b);
        System.out.println("** Now, Before and After swapping values will be same here**:");
